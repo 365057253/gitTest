@@ -5,7 +5,8 @@
 int main()
 {
 	std::cout << "ideal thread num ==" << std::thread::hardware_concurrency() << std::endl;
-	std::cout << "new release" << std::endl;
+
+	std::cout << "operate IV" << std::endl;
 }
 
 
